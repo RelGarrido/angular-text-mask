@@ -1,6 +1,11 @@
-# How to build
+# How to build & use
 
 Just run ``build.bat`` on windows machine. Change the repo path if needed.
+
+Add this line to package.json dependencides and run ``npm i``
+``
+    "angular2-text-mask": "git+https://github.com/RelGarrido/angular-text-mask.git#npm",
+```
 
 
 
